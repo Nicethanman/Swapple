@@ -6,3 +6,4 @@ The app's goal is to connect users who want to trade their personal belongings w
 
 The app is still a work in progress but here are a few screenshots showing the camera, login and profile pages:
 
+<img src="https://github.com/user-attachments/assets/ff441798-34f7-4929-86a9-7ede47994159" alt="login swapple" width="300"/>
