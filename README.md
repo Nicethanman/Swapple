@@ -6,3 +6,9 @@ The app's goal is to connect users who want to trade their personal belongings w
 
 The app is still a work in progress but here are a few screenshots showing the camera, login and profile pages:
 
+
+
+
+
+
+![swapple sample image](https://github.com/user-attachments/assets/8289e44f-2708-4161-a360-5ebe8d03df31)
